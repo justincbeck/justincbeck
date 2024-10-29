@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Justin C. Beck</h1>
-<h3 align="center">Senior Software Engineer at Pearl Certification</h3>
+<h3 align="center">Staff Software Engineer at Pearl Certification</h3>
 
 - 🔭 I’m currently working at [Pearl Certification](https://pearlcertification.com)
 - 📫 How to reach me **me@justinbeck.com**
