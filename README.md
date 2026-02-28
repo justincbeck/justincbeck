@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Justin C. Beck</h1>
-<h3 align="center">Staff Software Engineer at Pearl Certification</h3>
+<h3 align="center">Principal Software Engineer at Simple Thread</h3>
 
-- 🔭 I’m currently working at [Pearl Certification](https://pearlcertification.com)
+- 🔭 I’m currently working at [Simple Thread](https://simplethread.com)
+- 🔭 I also run rescue at [Western Albemarle Rescue Squad](westernrescue.org)
 - 📫 How to reach me **me@justinbeck.com**
 - 📄 Know about my experiences [https://linkedin.com/in/justincbeck](https://linkedin.com/in/justincbeck)
 
@@ -18,6 +19,5 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=justincbeck)]()<br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justincbeck&theme=buefy&hide_border=true)](#)<br />
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=justincbeck)](#)<br />
